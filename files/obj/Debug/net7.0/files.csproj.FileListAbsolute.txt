@@ -1,0 +1,15 @@
+C:\Учеба\gitignor\folder1\files\bin\Debug\net7.0\files.exe
+C:\Учеба\gitignor\folder1\files\bin\Debug\net7.0\files.deps.json
+C:\Учеба\gitignor\folder1\files\bin\Debug\net7.0\files.runtimeconfig.json
+C:\Учеба\gitignor\folder1\files\bin\Debug\net7.0\files.dll
+C:\Учеба\gitignor\folder1\files\bin\Debug\net7.0\files.pdb
+C:\Учеба\gitignor\folder1\files\obj\Debug\net7.0\files.csproj.AssemblyReference.cache
+C:\Учеба\gitignor\folder1\files\obj\Debug\net7.0\files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\gitignor\folder1\files\obj\Debug\net7.0\files.AssemblyInfoInputs.cache
+C:\Учеба\gitignor\folder1\files\obj\Debug\net7.0\files.AssemblyInfo.cs
+C:\Учеба\gitignor\folder1\files\obj\Debug\net7.0\files.csproj.CoreCompileInputs.cache
+C:\Учеба\gitignor\folder1\files\obj\Debug\net7.0\files.dll
+C:\Учеба\gitignor\folder1\files\obj\Debug\net7.0\refint\files.dll
+C:\Учеба\gitignor\folder1\files\obj\Debug\net7.0\files.pdb
+C:\Учеба\gitignor\folder1\files\obj\Debug\net7.0\files.genruntimeconfig.cache
+C:\Учеба\gitignor\folder1\files\obj\Debug\net7.0\ref\files.dll
